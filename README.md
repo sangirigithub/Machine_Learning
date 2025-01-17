@@ -9,5 +9,5 @@ Having participated in various Hackathons and Woman in Data Science Workshops/Ha
 - **kaggle-Aug'20_SalesForecast_LassoLinearRegression_IIIT-H**: ML Regression Model
 - **semi-Supervised-Learning**: Semi Supervised Learning
 
-Feel free to explore the notebooks and provide feedback!
+
 
